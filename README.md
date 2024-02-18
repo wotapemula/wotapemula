@@ -2,6 +2,9 @@
 
 Si wota pemula yang selalu meminta ajaran sepuh, hai semua aku Deekuh!
 
+![image](https://github.com/wotapemula/wotapemula/assets/160403334/218962dd-b740-4f54-85e0-8175953ce9a6)
+
+
 <!--
 **wotapemula/wotapemula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
