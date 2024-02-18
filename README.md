@@ -2,8 +2,7 @@
 
 Si wota pemula yang selalu meminta ajaran sepuh, hai semua aku Deekuh!
 
-![onyil]([https://github.com/wotapemula/wotapemula/assets/160403334/218962dd-b740-4f54-85e0-8175953ce9a6](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Foniel-jkt48-cute-smile-beautiful-hearts-gif-17039644&psig=AOvVaw3Z5pNITuExxQ_fecByfrTc&ust=1708354931907000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjA1pmUtYQDFQAAAAAdAAAAABBD))
-
+![onyil][https://github.com/wotapemula/wotapemula/blob/main/oniel-jkt48.gif]
 
 <!--
 **wotapemula/wotapemula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
