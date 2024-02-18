@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Si wota pemula yang selalu meminta ajaran sepuh, hai semua aku Deekuh!
+
 <!--
 **wotapemula/wotapemula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
